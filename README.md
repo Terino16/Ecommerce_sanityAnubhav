@@ -1,3 +1,33 @@
+<h1>Home page</h1>
+<img width="1437" alt="Screenshot 2023-02-26 at 9 58 00 PM" src="https://user-images.githubusercontent.com/123401184/221423414-9695b181-953e-4050-a720-e06137ba402c.png">
+
+
+<img width="1440" alt="Screenshot 2023-02-26 at 9 58 06 PM" src="https://user-images.githubusercontent.com/123401184/221423421-ee823b88-45c7-4016-b07b-d810cd66206c.png">
+
+Products
+
+<img width="1438" alt="Screenshot 2023-02-26 at 9 58 13 PM" src="https://user-images.githubusercontent.com/123401184/221423428-207aa0ac-341d-4b96-9978-e2de0e476283.png">
+
+
+Individual Product
+
+<img width="1440" alt="Screenshot 2023-02-26 at 9 58 20 PM" src="https://user-images.githubusercontent.com/123401184/221423437-37754c0f-8cd1-4456-b3ed-f04cd0d9c977.png">
+
+
+cart functionality
+
+<img width="1439" alt="Screenshot 2023-02-26 at 9 58 33 PM" src="https://user-images.githubusercontent.com/123401184/221423443-a90ddbc2-5d1f-4fb2-ac36-d5bd9e7624c9.png">
+
+
+Connected to stripe 
+
+<img width="1437" alt="Screenshot 2023-02-26 at 9 58 42 PM" src="https://user-images.githubusercontent.com/123401184/221423450-c1f33d47-802a-4ae7-aa1b-12ca0ec1e189.png">
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
